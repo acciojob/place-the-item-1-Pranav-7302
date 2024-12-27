@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    text-align: center;
+    font-size: 50px;
+}
+.box3{
+height: 100px;
+width: 100px;
+background-color: green;
+color: black;
+}
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    color: black;
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    color: black;
+}
