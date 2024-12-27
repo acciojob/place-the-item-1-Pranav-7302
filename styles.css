@@ -1,28 +1,39 @@
-
-/* Your CSS Code here. */
 .container{
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .box{
     text-align: center;
     font-size: 50px;
+    width: 16%;
+    height: 30vh;
 }
 .box3{
-height: 100px;
-width: 100px;
 background-color: green;
 color: black;
 }
+.box4{
+    background-color: green;
+    color: black;
+}
+.box5{
+    background-color: green;
+    color: black;
+}
+.box6{
+    background-color: green;
+    color: black;
+}
+.box7{
+    background-color: green;
+    color: black;
+}
 .box1{
-    height: 100px;
-    width: 100px;
     background-color: red;
     color: black;
 }
 .box2{
-    height: 100px;
-    width: 100px;
     background-color: blue;
     color: black;
 }
